@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">Shake to Undo</string>
+    <string name="undo">Undo</string>
+    <string name="redo">Redo</string>
+
+</resources>
